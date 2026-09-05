@@ -13,7 +13,7 @@ A premium full-stack gym & fitness website. All trainers, members, testimonials,
 ## Features
 
 - Public pages: Home, Programs + detail, Trainers + detail, Classes/Schedule, Membership, About, Contact, FAQ, Gallery + lightbox
-- Premium dark design system (Manrope/Inter, blue accent palette), responsive, reduced-motion aware
+- Premium dark design system (Manrope/Inter, crimson accent palette), responsive, reduced-motion aware
 - Contact form + membership enquiry modal (React Hook Form + Zod validation)
 - Private admin CMS at `/admin`:
   - Dashboard with live DB statistics (published/upcoming content, unread messages split by type)
