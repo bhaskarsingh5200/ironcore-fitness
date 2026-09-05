@@ -11,8 +11,8 @@ export default {
           line: '#1B2634',
         },
         accent: {
-          DEFAULT: '#008CFF',
-          bright: '#00A3FF',
+          DEFAULT: '#E02424',
+          bright: '#FF4D4D',
         },
         steel: {
           DEFAULT: '#9AA7B5',
@@ -24,12 +24,12 @@ export default {
         body: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
       },
       boxShadow: {
-        glow: '0 0 60px rgba(0, 140, 255, 0.22)',
-        'glow-sm': '0 0 24px rgba(0, 140, 255, 0.22)',
+        glow: '0 0 60px rgba(224, 36, 36, 0.24)',
+        'glow-sm': '0 0 24px rgba(224, 36, 36, 0.24)',
         card: '0 8px 32px rgba(0, 0, 0, 0.35)',
       },
       backgroundImage: {
-        'blue-glow': 'radial-gradient(circle at center, rgba(0, 140, 255, 0.22), transparent 65%)',
+        'blue-glow': 'radial-gradient(circle at center, rgba(224, 36, 36, 0.24), transparent 65%)',
         'grid-faint':
           'linear-gradient(to right, rgba(255,255,255,0.03) 1px, transparent 1px), linear-gradient(to bottom, rgba(255,255,255,0.03) 1px, transparent 1px)',
       },
